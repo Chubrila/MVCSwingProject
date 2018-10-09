@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-9.0.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/ant-1.6.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/castor-anttasks-1.3.4-20150407.200519-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/castor-codegen-1.3.4-20150407.200444-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/castor-codegen-1.3.4-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/castor-core-1.3.4-20150407.200250-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/castor-core-1.3.4-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/castor-xml-1.3.4-20150407.200313-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/castor-xml-1.3.4-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/castor-xml-annotations-1.3.4-20150407.200349-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/castor-xml-diff-1.3.4-20150407.200357-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/castor-xml-schema-1.3.4-20150407.200408-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/castor-xml-schema-1.3.4-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/jakarta-regexp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/ldapsdk-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/spring-aop-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/spring-asm-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/spring-context-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/spring-core-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/spring-expression-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/stax-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexey/Desktop/castor-distribution-1.3.4-20150407.200617-1-codegen-bin-with-dependencies/velocity-1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
